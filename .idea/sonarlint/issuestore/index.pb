@@ -11,3 +11,5 @@ K
 tests/usage-logging.test.ts,b/5/b56870c74aec3b2584b750f4d9a124ca8fa02ce7
 U
 %tests/compliance-verification.test.ts,8/9/89016e11ef90b58fc7b67d60713ff5f9751cf996
+L
+contracts/usage-logging.clar,9/9/992f22c2247d94ee3240ac904b16d41ed496fa08
